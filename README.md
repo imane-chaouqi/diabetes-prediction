@@ -1,9 +1,9 @@
 #  Prédiction du risque de diabète avec Machine Learning
 
-🔗 **Application Streamlit :** 
+🔗 **Application Streamlit :** https://diabetes-prediction3.streamlit.app/
 
 
----
+
 
 ##  Objectif du projet
 
@@ -11,7 +11,7 @@ L’objectif de ce projet est de développer un modèle de Machine Learning capa
 
 La détection précoce du diabète est un enjeu important en santé publique, car elle permet d’anticiper les complications et d’améliorer la prise en charge.
 
----
+
 
 ##  Modèles utilisés
 
@@ -23,7 +23,7 @@ Plusieurs algorithmes de classification supervisée ont été entraînés et com
 
 Les modèles ont été évalués à l’aide de plusieurs métriques de performance.
 
----
+
 
 ##  Métriques d’évaluation
 
@@ -36,7 +36,7 @@ Les performances des modèles ont été analysées avec :
 
 Suite à la comparaison des résultats, **Random Forest** a été sélectionné comme modèle final.
 
----
+
 
 ##  Déploiement
 
@@ -48,7 +48,7 @@ L’application permet à l’utilisateur :
 - de lancer une prédiction  
 - d’obtenir une estimation du risque de diabète accompagnée d’une probabilité  
 
----
+
 
 ##  Technologies utilisées
 
